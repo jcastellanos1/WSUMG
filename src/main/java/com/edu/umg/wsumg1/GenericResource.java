@@ -16,7 +16,7 @@ import javax.ws.rs.core.MediaType;
 /**
  * REST Web Service
  *
- * @author jose5
+ * @author caste
  */
 //holaaaa
 @Path("WSUMG")
